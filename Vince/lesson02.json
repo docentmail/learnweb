@@ -1,8 +1,8 @@
 {
     "title": "Lesson 02",
     "shortUrl": "http://goo.gl/uPg9IR",
-    "description": |
-     Second 10 problems with 1-2 complexity
+    "longUrl": "http://webculum.org/javascript/problem/drill-url-ws.html?jsonurl=https://raw.githubusercontent.com/docentmail/learnweb/master/Vince/lesson02.json",
+    "description": "Second 10 problems with 1-2 complexity",
     "urls": [ 
         "http://webculum.org/javascript/problem/2015-12-17-16-45.html",
         "http://webculum.org/javascript/problem/2015-12-17-16-47.html",

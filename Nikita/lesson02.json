@@ -1,8 +1,8 @@
 {
-    "title": "Nikita 2016_01_13 ",
+    "title": "Hard problems for lesson 01",
     "shortUrl": "http://goo.gl/lCBF1w",
-    "description" : |
-     The remaining of lesson 01 after check
+    "longUrl": "http://webculum.org/javascript/problem/drill-url-ws.html?jsonurl=https://raw.githubusercontent.com/docentmail/learnweb/master/Nikita/lesson02.json",
+    "description": "Nikita 2016_01_13", 
     "urls": [ 
         "http://webculum.org/javascript/problem/2015-12-31-23-01.html",
         "http://webculum.org/javascript/problem/2015-12-16-17-06.html"
